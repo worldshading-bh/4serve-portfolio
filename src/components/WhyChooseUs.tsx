@@ -3,8 +3,8 @@ import { Award, Clock, Shield, Users, Wrench, TrendingUp } from "lucide-react";
 const features = [
   {
     icon: Award,
-    title: "Premium Quality",
-    description: "We use only the highest quality materials and proven construction techniques for lasting durability.",
+    title: "Premium Quality..",
+    description: "We use only the highest quality materials and proven construction techniques for lasting durability...",
   },
   {
     icon: Shield,
